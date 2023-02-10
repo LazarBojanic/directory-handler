@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="directory-handler-specification" />
+        <module name="directory-handler-google-drive-implementation" />
+        <module name="directory-handler-project" />
+        <module name="directory-handler-local-implementation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
