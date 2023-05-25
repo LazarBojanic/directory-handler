@@ -9,8 +9,13 @@ import java.security.GeneralSecurityException;
 import java.text.ParseException;
 
 public class Main{
-    public static void main(String[] args) throws NoFileAtPathException, NonExistentRepositoryException, InvalidCommandException, MaxRepositorySizeExceededException, InvalidParametersException, IOException, FileExtensionException, ValueInConfigCannotBeLessThanOneException, MaxFileCountExceededException, BadPathException, ParseException, GeneralSecurityException, BadFiltersException {
-        App app = new App();
-        app.run(args);
+    public static void main(String[] args) {
+        try{
+            App app = new App();
+            app.run(args);
+        }
+        catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }

@@ -1,1 +1,10 @@
-{"maxRepositorySize":1073741824,"excludedExtensions":[],"directoriesWithMaxFileCount":[{"directoryName":"testRep/dir1","maxFileCount":5}]}
+{
+    "maxRepositorySize": 1073741824,
+    "excludedExtensions": [],
+    "directoriesWithMaxFileCount": [
+        {
+            "directoryName": "testRep/dir1",
+            "maxFileCount": 5
+        }
+    ]
+}

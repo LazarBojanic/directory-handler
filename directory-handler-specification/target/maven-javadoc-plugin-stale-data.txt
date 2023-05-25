@@ -12,7 +12,7 @@
 'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java'
 -author
 -bottom
-'Copyright &#169; 2022. All rights reserved.'
+'Copyright &#169; 2023. All rights reserved.'
 -charset
 'UTF-8'
 -d
@@ -45,21 +45,21 @@ C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jac
 C:\Users\bojan\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar = 1666176744893
 C:\Users\bojan\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar = 1666176744817
 C:\Users\bojan\.m2\repository\org\projectlombok\lombok\1.18.24\lombok-1.18.24.jar = 1654009771504
-D:\JavaProjects\directory-handler\directory-handler-specification\src\main\java = 1668418167266
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\allclasses-index.html = 1668596938359
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\allpackages-index.html = 1668596938363
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\element-list = 1668596938116
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\index-all.html = 1668596938408
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\index.html = 1668596938338
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\jquery-ui.overrides.css = 1668596938499
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\member-search-index.js = 1668596938371
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\module-search-index.js = 1668596938364
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\overview-summary.html = 1668596938410
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\overview-tree.html = 1668596938333
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\package-search-index.js = 1668596938367
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\script.js = 1668596938415
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\search.js = 1668596938418
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\serialized-form.html = 1668596938171
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\stylesheet.css = 1668596938413
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\tag-search-index.js = 1668596938372
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\type-search-index.js = 1668596938369
+D:\JavaProjects\directory-handler\directory-handler-specification\src\main\java = 1675993271704
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\allclasses-index.html = 1685032180381
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\allpackages-index.html = 1685032180385
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\element-list = 1685032180012
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\index-all.html = 1685032180425
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\index.html = 1685032180342
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\jquery-ui.overrides.css = 1685032180448
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\member-search-index.js = 1685032180395
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\module-search-index.js = 1685032180390
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\overview-summary.html = 1685032180427
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\overview-tree.html = 1685032180327
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\package-search-index.js = 1685032180391
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\script.js = 1685032180432
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\search.js = 1685032180435
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\serialized-form.html = 1685032180081
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\stylesheet.css = 1685032180430
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\tag-search-index.js = 1685032180396
+D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\type-search-index.js = 1685032180393
