@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/directory-handler.iml" filepath="$PROJECT_DIR$/directory-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/directory-handler.iml" filepath="$PROJECT_DIR$/.idea/directory-handler.iml" />
     </modules>
   </component>
 </project>

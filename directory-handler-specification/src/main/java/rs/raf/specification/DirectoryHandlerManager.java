@@ -10,6 +10,12 @@ import java.security.GeneralSecurityException;
  */
 public class DirectoryHandlerManager {
     /**
+     * Constructor
+     */
+    public DirectoryHandlerManager(){
+
+    }
+    /**
      * Directory handler.
      */
     private static IDirectoryHandlerSpecification directoryHandler;

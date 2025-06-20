@@ -16,6 +16,8 @@ import rs.raf.exception.DirectoryHandlerExceptions.*;
 
 /**
  * Methods to use when using DirectoryHandler
+ * @param <T1> file
+ * @param <T2> filteredGoogleDriveFile
  */
 public interface IDirectoryHandlerSpecification<T1, T2> {
     /**

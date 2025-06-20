@@ -4,17 +4,14 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/directory-handler-project/pom.xml" />
         <option value="$PROJECT_DIR$/directory-handler-specification/pom.xml" />
         <option value="$PROJECT_DIR$/directory-handler-local-implementation/pom.xml" />
         <option value="$PROJECT_DIR$/directory-handler-google-drive-implementation/pom.xml" />
-        <option value="$PROJECT_DIR$/directory-handler-project/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="24" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="jpab" />
   </component>
 </project>

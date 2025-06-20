@@ -39,7 +39,7 @@ import java.util.*;
 import rs.raf.exception.DirectoryHandlerExceptions.*;
 
 public class DirectoryHandlerGoogleDriveImplementation implements IDirectoryHandlerSpecification<File, FilteredGoogleDriveFile> {
-    private static final String APPLICATION_NAME = "directory-handler-lbojanic";
+    private static final String APPLICATION_NAME = "directory-handler-463516";
     private static final JsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
     private static final List<String> SCOPES = Arrays.asList(DriveScopes.DRIVE, DriveScopes.DRIVE_APPDATA, DriveScopes.DRIVE_FILE, DriveScopes.DRIVE_METADATA, DriveScopes.DRIVE_SCRIPTS);
     public static List<File> allFilesList;

@@ -5,6 +5,12 @@ package rs.raf.exception;
  */
 public class DirectoryHandlerExceptions {
     /**
+     * Constructor
+     */
+    public DirectoryHandlerExceptions(){
+
+    }
+    /**
      * Occurs if max file count for directory is exceeded.
      */
     public static class MaxFileCountExceededException extends Exception {

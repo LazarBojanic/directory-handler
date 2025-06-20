@@ -10,7 +10,6 @@ import lombok.Setter;
  */
 @Getter
 @Setter
-@NoArgsConstructor
 @AllArgsConstructor
 public class DirectoryWithMaxFileCount {
     /**
@@ -21,6 +20,12 @@ public class DirectoryWithMaxFileCount {
      * Max file count.
      */
     private int maxFileCount;
+    /**
+     * Constructor
+     */
+    public DirectoryWithMaxFileCount(){
+
+    }
     /**
      * Directory with max file count to string.
      */

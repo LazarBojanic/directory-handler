@@ -1,1 +1,0 @@
-java -jar target\\directory-handler-project-1.0.jar drive default

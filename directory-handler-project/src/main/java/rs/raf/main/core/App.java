@@ -864,7 +864,7 @@ public class App {
         System.out.println("createConfig <repositoryName> <configString>");
         System.out.println("createDirectories <directoryPathsString>");
         System.out.println("createFiles <createDirectories>");
-        System.out.println("createRepository <repositoryName> <copyDestinationString> <configString>");
+        System.out.println("createRepository <repositoryName> <configString>");
         System.out.println("deleteFiles <filePathsString>");
         System.out.println("downloadFiles <filePathsString> <downloadDestinationDirectoryString> <overwrite>");
         System.out.println("getConfig <repositoryName>");

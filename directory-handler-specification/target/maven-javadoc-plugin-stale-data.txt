@@ -1,27 +1,27 @@
+-J-Duser.language=
+-J-Duser.country=
 @options
 @packages
-@argfile
 -classpath
-'C:/Users/bojan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.14.0/jackson-databind-2.14.0.jar;C:/Users/bojan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.14.0/jackson-annotations-2.14.0.jar;C:/Users/bojan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.14.0/jackson-core-2.14.0.jar;C:/Users/bojan/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;C:/Users/bojan/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;C:/Users/bojan/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar'
+'C:/Users/bojan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.19.1/jackson-databind-2.19.1.jar;C:/Users/bojan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.19.1/jackson-annotations-2.19.1.jar;C:/Users/bojan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.19.1/jackson-core-2.19.1.jar;C:/Users/bojan/.m2/repository/commons-io/commons-io/2.19.0/commons-io-2.19.0.jar;C:/Users/bojan/.m2/repository/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar;C:/Users/bojan/.m2/repository/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar'
 -encoding
 'UTF-8'
--private
+-protected
 -source
-'17'
+'24'
 -sourcepath
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java'
+'C:/dev/Java/directory-handler/directory-handler-specification/src/main/java;C:/dev/Java/directory-handler/directory-handler-specification/target/generated-sources/annotations'
 -author
 -bottom
-'Copyright &#169; 2023. All rights reserved.'
+'Copyright &#169; 2025. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'D:/JavaProjects/directory-handler/directory-handler-specification/target/site/apidocs'
+'C:/dev/Java/directory-handler/directory-handler-specification/target/reports/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
 'directory-handler-specification 1.0 API'
--nohelp
 -use
 -version
 -windowtitle
@@ -30,36 +30,26 @@ rs.raf.config
 rs.raf.enums
 rs.raf.exception
 rs.raf.specification
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/config/DirectoryHandlerConfig.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/config/DirectoryWithMaxFileCount.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/enums/ConfigUpdateType.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/enums/OrderType.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/enums/SearchType.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/enums/SortingType.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/exception/DirectoryHandlerExceptions.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/specification/DirectoryHandlerManager.java'
-'D:/JavaProjects/directory-handler/directory-handler-specification/src/main/java/rs/raf/specification/IDirectoryHandlerSpecification.java'
-C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.0\jackson-databind-2.14.0.jar = 1667965248936
-C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.0\jackson-annotations-2.14.0.jar = 1667965248249
-C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jackson-core-2.14.0.jar = 1667965248338
-C:\Users\bojan\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar = 1666176744893
-C:\Users\bojan\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar = 1666176744817
-C:\Users\bojan\.m2\repository\org\projectlombok\lombok\1.18.24\lombok-1.18.24.jar = 1654009771504
-D:\JavaProjects\directory-handler\directory-handler-specification\src\main\java = 1675993271704
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\allclasses-index.html = 1685032180381
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\allpackages-index.html = 1685032180385
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\element-list = 1685032180012
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\index-all.html = 1685032180425
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\index.html = 1685032180342
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\jquery-ui.overrides.css = 1685032180448
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\member-search-index.js = 1685032180395
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\module-search-index.js = 1685032180390
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\overview-summary.html = 1685032180427
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\overview-tree.html = 1685032180327
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\package-search-index.js = 1685032180391
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\script.js = 1685032180432
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\search.js = 1685032180435
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\serialized-form.html = 1685032180081
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\stylesheet.css = 1685032180430
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\tag-search-index.js = 1685032180396
-D:\JavaProjects\directory-handler\directory-handler-specification\target\site\apidocs\type-search-index.js = 1685032180393
+C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.1\jackson-databind-2.19.1.jar = 1750436657080
+C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.1\jackson-annotations-2.19.1.jar = 1750436656869
+C:\Users\bojan\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.1\jackson-core-2.19.1.jar = 1750436656915
+C:\Users\bojan\.m2\repository\commons-io\commons-io\2.19.0\commons-io-2.19.0.jar = 1749171141380
+C:\Users\bojan\.m2\repository\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar = 1749171141266
+C:\Users\bojan\.m2\repository\org\projectlombok\lombok\1.18.38\lombok-1.18.38.jar = 1748158031191
+C:\dev\Java\directory-handler\directory-handler-specification\src\main\java = 1748646121051
+C:\dev\Java\directory-handler\directory-handler-specification\target\generated-sources\annotations = 1750443506106
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\allclasses-index.html = 1750443508762
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\allpackages-index.html = 1750443508764
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\element-list = 1750443508660
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\help-doc.html = 1750443508781
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\index-all.html = 1750443508775
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\index.html = 1750443508749
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\member-search-index.js = 1750443508766
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\module-search-index.js = 1750443508765
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\overview-summary.html = 1750443508778
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\overview-tree.html = 1750443508746
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\package-search-index.js = 1750443508765
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\search.html = 1750443508777
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\serialized-form.html = 1750443508693
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\tag-search-index.js = 1750443508767
+C:\dev\Java\directory-handler\directory-handler-specification\target\reports\apidocs\type-search-index.js = 1750443508766
