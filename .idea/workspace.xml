@@ -33,23 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main Drive Default.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main Local Default.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.drive clean install.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.local clean install.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.project clean install.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.specification clean install.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.specification javadoc.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main Drive Default.executor": "Run",
+    "Application.Main Local Default.executor": "Run",
+    "Maven.drive clean install.executor": "Run",
+    "Maven.local clean install.executor": "Run",
+    "Maven.project clean install.executor": "Run",
+    "Maven.specification clean install.executor": "Run",
+    "Maven.specification javadoc.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main Drive Default">
     <configuration name="Main Drive Default" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="rs.raf.main.Main" />
