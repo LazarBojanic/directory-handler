@@ -93,6 +93,16 @@
                     </archive>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.5.1</version>
+                <configuration>
+                    <mainClass>
+                        rs.raf.main.Main
+                    </mainClass>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
