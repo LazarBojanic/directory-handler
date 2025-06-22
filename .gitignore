@@ -2,4 +2,5 @@ directory-handler-google-drive-implementation/target
 directory-handler-local-implementation/target
 directory-handler-project/target
 directory-handler-project/credentials.json
+directory-handler-project/DirectoryHandlerGoogleDrive/tokens
 directory-handler-specification/target
